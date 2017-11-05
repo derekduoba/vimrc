@@ -1,2 +1,1 @@
-# vimrc
-My vimrc
+# Derek's vimrc

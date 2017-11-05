@@ -1,10 +1,9 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Maintainer: 
-"       Amir Salihefendic
-"       http://amix.dk - amix@amix.dk
+"       Derek Duoba
 "
-" Version: 
-"       5.0 - 29/05/12 15:43:36
+" Notes:
+"       Based on  Amir Salihefendic's vimrc config
 "
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
